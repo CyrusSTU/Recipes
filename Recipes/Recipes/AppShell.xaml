@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Shell xmlns="http://xamarin.com/schemas/2014/forms"
+       xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+       xmlns:views="clr-namespace:Recipes.Views"
+       x:Class="Recipes.AppShell">
+    <TabBar>
+        <ShellContent Title="Recipes"
+                      Icon="icon_feed.png"
+                      ContentTemplate="{DataTemplate views:RecipesPage}" />
+    </TabBar>
+</Shell>
