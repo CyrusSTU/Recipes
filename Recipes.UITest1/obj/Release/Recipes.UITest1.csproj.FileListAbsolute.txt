@@ -1,0 +1,13 @@
+C:\Users\guilt\Documents\Recipes\Recipes.UITest1\bin\Release\NUnit3.TestAdapter.dll
+C:\Users\guilt\Documents\Recipes\Recipes.UITest1\bin\Release\NUnit3.TestAdapter.pdb
+C:\Users\guilt\Documents\Recipes\Recipes.UITest1\bin\Release\nunit.engine.dll
+C:\Users\guilt\Documents\Recipes\Recipes.UITest1\bin\Release\nunit.engine.api.dll
+C:\Users\guilt\Documents\Recipes\Recipes.UITest1\bin\Release\test-cloud.exe
+C:\Users\guilt\Documents\Recipes\Recipes.UITest1\bin\Release\Recipes.UITest1.dll
+C:\Users\guilt\Documents\Recipes\Recipes.UITest1\bin\Release\nunit.framework.dll
+C:\Users\guilt\Documents\Recipes\Recipes.UITest1\bin\Release\nunit.framework.pdb
+C:\Users\guilt\Documents\Recipes\Recipes.UITest1\bin\Release\Xamarin.UITest.dll
+C:\Users\guilt\Documents\Recipes\Recipes.UITest1\obj\Release\Recipes.UITest1.csproj.AssemblyReference.cache
+C:\Users\guilt\Documents\Recipes\Recipes.UITest1\obj\Release\Recipes.UITest1.csproj.CoreCompileInputs.cache
+C:\Users\guilt\Documents\Recipes\Recipes.UITest1\obj\Release\Recipes.UITest1.csproj.CopyComplete
+C:\Users\guilt\Documents\Recipes\Recipes.UITest1\obj\Release\Recipes.UITest1.dll

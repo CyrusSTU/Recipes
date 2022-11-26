@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tM3N44xrN7m+Mp81hJuCGNNg+WW9S4RDMrHrLa+fcejinzL3Vvt4rxBkxOIvdZiaA7tvpaoV2wdlnOSu7st1GA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\guilt\\Documents\\Recipes\\Recipes.UITest1\\Recipes.UITest1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guilt\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\guilt\\.nuget\\packages\\nunit3testadapter\\3.13.0\\nunit3testadapter.3.13.0.nupkg.sha512",
+    "C:\\Users\\guilt\\.nuget\\packages\\xamarin.uitest\\3.2.2\\xamarin.uitest.3.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}

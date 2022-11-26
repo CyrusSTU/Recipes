@@ -36,7 +36,7 @@ namespace Recipes.Views
             }
             catch (Exception)
             {
-                Console.WriteLine("Failed to load note.");
+                Console.WriteLine("Failed to load recipe.");
             }
         }
 
